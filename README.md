@@ -7,7 +7,7 @@ This project is based on http://otfried.org/courses/cs109/project-bloxorz.html
 
 To run the program, you will need to move cs109.jar and cs109ui.jar files (author: Otfried Cheong) to the Kotlin's lib folder.
 
-To play this game, you also need to compile (i.e. type in the terminal "kts bloxorz.kt") and run (i.e. type in the terminal "kt BloxorzKt") the bloxorz.kt file.
+To play this game, you also need to compile (i.e. type in the terminal `kts bloxorz.kt`) and run (i.e. type in the terminal `kt BloxorzKt`) the bloxorz.kt file.
 
 Use R, L, U, D to control the block.
 
